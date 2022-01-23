@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-### Add counter to GitHub profile
+```markdown
+![](https://komarev.com/ghpvc/?username=kshivakumar27)
+```
+
 
 ```markdown
 ![](https://komarev.com/ghpvc/?username=kshivakumar27)
