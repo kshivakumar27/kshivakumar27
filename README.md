@@ -2,12 +2,12 @@
 
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=kshivakumar27)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ```
 
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=kshivakumar27)
+![](https://github.com/kshivakumar27/?username=kshivakumar27)
 ```
 
 <!--
