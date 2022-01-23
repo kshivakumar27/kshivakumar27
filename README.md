@@ -4,7 +4,7 @@
 ### Add counter to GitHub profile
 
 ```markdown
-![](https://github.com/kshivakumar27)
+![](https://komarev.com/ghpvc/?username=kshivakumar27)
 ```
 
 <!--
