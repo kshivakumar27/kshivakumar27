@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username)
-```
+![](https://komarev.com/ghpvc/?username=kshivakumar27&label=PROFILE+VIEWS)
 
 
-```markdown
-![](https://github.com/kshivakumar27/?username=kshivakumar27)
-```
 
 <!--
 **kshivakumar27/kshivakumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
