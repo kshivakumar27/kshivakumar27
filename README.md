@@ -4,11 +4,9 @@
 
 
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-
 ![](https://komarev.com/ghpvc/?username=kshivakumar27&label=PROFILE+VIEWS)
     
-    </a>
+   
     
     
     
