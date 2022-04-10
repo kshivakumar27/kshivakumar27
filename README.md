@@ -58,17 +58,17 @@ Here are some ideas to get you started:
 <!-- [![website](./img/globe-dark.svg)]() -->
 
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/username#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/username#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/anditorx#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/anditorx#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/username#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/username#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andirustianto/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andirustianto/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/username/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/username/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/andirustti/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/andirustti/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/username/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/username/#gh-dark-mode-only)
 
 
 
