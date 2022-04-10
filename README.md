@@ -1,12 +1,6 @@
 ### Hi there  👋  I am Shivakumar K (Software Engineer1)
 
 
-![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true)
-
-
-
-    
-   
     
     
     
@@ -133,3 +127,21 @@ Here are some ideas to get you started:
 https://stackoverflow.com/users/17393268/shiv-kumar-k
 
 ![](https://komarev.com/ghpvc/?username=kshivakumar27&label=PROFILE+VIEWS)
+
+
+
+
+
+
+
+
+
+
+
+
+![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true)
+
+
+
+    
+   
