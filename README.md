@@ -1,6 +1,7 @@
 ### Hi there  👋  I am Shivakumar K (Software Engineer1)
 
 
+![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true)
 
 
 
