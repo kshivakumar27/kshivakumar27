@@ -2,7 +2,7 @@
 
 
     
- ### You can see my personal own website here:
+ ### You can see my personal website here:
  https://kshivakumar27.github.io/portfolio
     
     
