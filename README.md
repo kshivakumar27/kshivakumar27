@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 https://stackoverflow.com/users/17393268/shiv-kumar-k
 
 ![](https://komarev.com/ghpvc/?username=kshivakumar27&label=PROFILE+VIEWS)
-
+om shree gam gau ganapathaye vigna vinaashane namah
 
 
    
