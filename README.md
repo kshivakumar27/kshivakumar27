@@ -133,6 +133,13 @@ https://kshivakumar27.github.io/portfolio
 
 <h3 align="left">Languages:</h3>
 <p>
+	
+		
+<img src="https://img.shields.io/badge/jquery-%260769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
+<img src="https://img.shields.io/badge/OPENCV-%23white.svg?style=for-the-badge&logo=opencv3&logoColor=white" alt="opencv"/>	
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="react_native"/>
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+	
 <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs"/>
 <img src="https://img.shields.io/badge/DJANGO-REST-1709.svg?style=for-the-badge&logo=django3&logoColor=white" alt="django"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
