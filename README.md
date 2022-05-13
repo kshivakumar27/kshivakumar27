@@ -194,3 +194,23 @@ https://kshivakumar27.github.io/portfolio
   <b>Note:</b> I don't just sell websites, I create websites that SELL.
   </p>
  
+ 
+ 
+ ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+<h1 align="center">Hi 👋, I'm Surjesh Yadav</h1>
+<h1 align="center">
+  <b>Heyy!! Warriors</b>
+</h1>
+
+<h3 align="center" >"It always seems impossible until it's done."</h3>
+<p align="center" ><samp>I was passionate about coding so  I started my journey with a degree in Bachelor of Computer Application.</samp></p>
+<p align="center" ><samp align="center"> After BCA I joind Masai School it made me curious that one can create unique virtual platforms just by coding. This started to build up my interest in web development.</samp></p>
+<p align="center" ><samp align="center">I have learned lots of Advanced skills in web development like HTML, CSS, Javascript, NodeJS, MongoDB, Express, React, and DSA</samp></p>
+<p align="center" ><samp align="center">Now I am A passionate Full stack web developer with a flair for creating elegant and user centric solutions within the given deadline. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons..</samp></p>
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surjeshyadavmasai&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="surjeshyadavmasai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1296&theme=gruvbox"  alt="surjeshyadavmasai" /></a> </p>
+<img align="right" alt="Coding" width="500"     margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
