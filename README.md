@@ -185,16 +185,27 @@ https://kshivakumar27.github.io/portfolio
 
 <p align="left">
   <a href="">
+	  
+	  
 <!------	  
 ![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true)     -------------->
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true" />
+ 
+	  
+	  
+	  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=kshivakumar27&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
+
+
+
+<!--------
 <p align="center">
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshivakumar27&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
   <br/>
+
+----->
   <b>Note:</b> I am trying to be the best everyday.
   </p>
  
