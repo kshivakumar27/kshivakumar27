@@ -19,8 +19,11 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a></p>
     
  ### You can see my personal website here:
+ <p>
+ <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio"/>
+ 
  https://kshivakumar27.github.io/portfolio
-    
+   </p> 
     
 <!-----  ![](https://komarev.com/ghpvc/?username=kshivakumar27&dc143c) --->
 
@@ -142,7 +145,6 @@ https://kshivakumar27.github.io/portfolio
 		
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php3&logoColor=white" alt="php"/>	
-<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio"/>
 	
 	
 	
