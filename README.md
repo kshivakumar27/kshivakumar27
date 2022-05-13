@@ -159,4 +159,38 @@ https://kshivakumar27.github.io/AdminCRUFrontendReactJS
 https://kshivakumar27.github.io/portfolio
 
     
-   
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/SurjeshYadav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapy71252109" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surjeshyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-landage-74190b15b" height="30" width="40" /></a>
+<a href="https://instagram.com/surjeshyadav8704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surjeshyadav8704" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages:</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+ <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+
+</p>
+
+<p align="left">
+  <a href="">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=surjeshyadavmasai&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=surjeshyadavmasai&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
+<p align="center">
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surjeshyadavmasai&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> I don't just sell websites, I create websites that SELL.
+  </p>
+ 
