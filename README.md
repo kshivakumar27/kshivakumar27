@@ -210,7 +210,7 @@ https://kshivakumar27.github.io/portfolio
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surjeshyadavmasai&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="surjeshyadavmasai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshivakumar27&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="kshivakumar27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1296&theme=gruvbox"  alt="surjeshyadavmasai" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakuma27&theme=gruvbox"  alt="kshivakumar27" /></a> </p>
 <img align="right" alt="Coding" width="500"     margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
