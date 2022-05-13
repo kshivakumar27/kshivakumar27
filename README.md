@@ -7,16 +7,13 @@
 
 <p align="left">
   <a href="">
-	  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=kshivakumar27&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
-
-
-
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a>
+</p>
     
  ### You can see my personal website here:
  <p>
