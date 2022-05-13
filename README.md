@@ -153,7 +153,6 @@ https://kshivakumar27.github.io/EmployeeUserRegistrationBlogReact
 
 
 
-![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true)
 
 https://kshivakumar27.github.io/Checklist
 
@@ -186,7 +185,9 @@ https://kshivakumar27.github.io/portfolio
 
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&show_icons=true&theme=gruvbox&hide_border=true" />
+	  
+![shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true)
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&theme=github_dark&show_icons=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=kshivakumar27&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
