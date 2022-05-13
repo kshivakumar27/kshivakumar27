@@ -17,7 +17,7 @@
     
  ### You can see my personal website here:
  <p>
- <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio"/>
+ <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" href="https://kshivakumar27.github.io/portfolio" alt="portfolio"/>
 	<a href="https://kshivakumar27.github.io/portfolio">View portfolio</a>
    </p> 
     
