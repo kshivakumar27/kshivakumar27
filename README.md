@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p align="center">
 ### 📫 Explore my work here & reach me:
 
 <p>
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
-
+</p>
 
 <!-- [![website](./img/globe-light.svg)]() -->
 <!-- [![website](./img/globe-dark.svg)]() -->
