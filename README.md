@@ -134,7 +134,7 @@ https://kshivakumar27.github.io/portfolio
 <h3 align="left">Languages:</h3>
 <p>
 <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django3&logoColor=white" alt="django"/>
+<img src="https://img.shields.io/badge/DJANGO-REST-1709.svg?style=for-the-badge&logo=django3&logoColor=white" alt="django"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
