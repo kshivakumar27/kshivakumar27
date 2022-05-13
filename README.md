@@ -183,13 +183,13 @@ https://kshivakumar27.github.io/portfolio
 
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=surjeshyadavmasai&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=surjeshyadavmasai&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=kshivakumar27&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <p align="center">
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surjeshyadavmasai&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshivakumar27&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> I don't just sell websites, I create websites that SELL.
   </p>
@@ -197,7 +197,7 @@ https://kshivakumar27.github.io/portfolio
  
  
  ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
-<h1 align="center">Hi 👋, I'm Surjesh Yadav</h1>
+<h1 align="center">Hi 👋, I'm YAshIV</h1>
 <h1 align="center">
   <b>Heyy!! Warriors</b>
 </h1>
