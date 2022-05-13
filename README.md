@@ -12,7 +12,9 @@
   </a>
 </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a>
+<p>
+<a href="https://github.com/kshivakumar27/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a>
 </p>
     
  ### You can see my personal website here:
