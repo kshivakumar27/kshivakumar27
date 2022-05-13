@@ -18,16 +18,17 @@
  ### You can see my personal website here:
  <p>
  <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio"/>
- 
- https://kshivakumar27.github.io/portfolio
+	<a href="https://kshivakumar27.github.io/portfolio">View portfolio</a>
    </p> 
     
-<!-----  ![](https://komarev.com/ghpvc/?username=kshivakumar27&dc143c) --->
+
 
 11:11
 
 7:7
-#
+
+
+
 https://skyline.github.com/kshivakumar27/2021
 
 [Ÿ HŸPE]: https://yhype.me
@@ -50,24 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshivakumar27&theme=github_dark&layout=compact&hide=html,css,php,blade,roff,scss)](#)
-
----->
-
-
 
 
 
