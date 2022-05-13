@@ -14,7 +14,7 @@
 
 
 <a href="https://github.com/kshivakumar27/github-profile-trophy">
-<img width=600 src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&column=8&theme=gruvbox"  alt="kshivakumar27"/></a>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&column=7&theme=gruvbox"  alt="kshivakumar27"/></a>
     
  ### You can see my personal website here:
  <p>
