@@ -144,7 +144,7 @@ https://kshivakumar27.github.io/portfolio
 	
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-	<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="react_native"/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="react_native"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
 
 		
@@ -153,25 +153,22 @@ https://kshivakumar27.github.io/portfolio
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<img src="https://img.shields.io/badge/java-4EA94B?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-	<img src="https://img.shields.io/badge/OPENCV-%23white.svg?style=for-the-badge&logo=opencv3&logoColor=white" alt="opencv"/>
+
+<img src="https://img.shields.io/badge/OPENCV-%23white.svg?style=for-the-badge&logo=opencv3&logoColor=white" alt="opencv"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
 <img src="https://img.shields.io/badge/AZURE-%230072C6.svg?style=for-the-badge&logo=azure3&logoColor=white" alt="azure"/>
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=F7DF1E" alt="c"/>
 	
 	
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php3&logoColor=white" alt="php"/>	
-	
-	
-	
-		
+			
 <img src="https://img.shields.io/badge/jquery-%260769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
 	
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
- <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 
 </p>
