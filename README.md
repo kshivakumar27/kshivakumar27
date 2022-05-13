@@ -88,34 +88,19 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/shivakumar-k-0021b1158" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a>
+	![](https://komarev.com/ghpvc/?username=kshivakumar27&label=PROFILE+VIEWS)
+</a>	
 </p>
 
 
 
 
 
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/username#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/username#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/username#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/username#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/username/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/username/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/username/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/username/#gh-dark-mode-only)
 
 
 
 
-
-
-<!----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kshivakumar27&show_icons=true&theme=dark&count_private=true" width="400">
------->
 
 
  ### StackOverFlow 🤔 I’m looking to help you please tag me ...
