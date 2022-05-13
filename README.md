@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shivakumar K ,Software Engineer1</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&theme=gruvbox"  alt="kshivakumar27" /></a></p>
     
  ### You can see my personal website here:
  https://kshivakumar27.github.io/portfolio
