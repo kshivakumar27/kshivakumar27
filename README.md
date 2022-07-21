@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://kshivakumar27.github.io" target="_blank">
-<img src=https://img.shields.io/badge/yashiv-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/yashiv.io-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
 </a>
 </p>
 
