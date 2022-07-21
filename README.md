@@ -26,13 +26,13 @@
 7:7
 <p align="left">
 <a href="https://kshivakumar27.github.io/Yashiv99" target="_blank">
-<img src=https://img.shields.io/badge/yashiv.io-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/yashiv.io(portfolio)-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
 </a>
 <a href="https://kshivakumar27.github.io/portfolio" target="_blank">
-<img src=https://img.shields.io/badge/yashiv.io-%231E7778.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/yashiv.io(website)-%231E77B5.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
 </a>
 <a href="https://skyline.github.com/kshivakumar27/2021" target="_blank">
-<img src=https://img.shields.io/badge/MygithubSkyline-%231E7778.svg?&style=for-the-badge&logo=y&logoColor=white alt=MyGithubSkyline style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/MygithubSkyline-%231E7711.svg?&style=for-the-badge&logo=y&logoColor=white alt=MyGithubSkyline style="margin-bottom: 5px;" />
 </a>
 </p>
 
