@@ -17,10 +17,7 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&column=7&theme=gruvbox"  alt="kshivakumar27"/></a>
     
  ### You can see my personal website here:
- <p>
- <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white"  alt="portfolio"/>
-	https://kshivakumar27.github.io/Yashiv99
-   </p> 
+ 
     
 
 
@@ -31,10 +28,16 @@
 <a href="https://kshivakumar27.github.io/Yashiv99" target="_blank">
 <img src=https://img.shields.io/badge/yashiv.io-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
 </a>
+<a href="https://kshivakumar27.github.io/portfolio" target="_blank">
+<img src=https://img.shields.io/badge/yashiv.io-%231E7778.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
+</a>
+<a href="https://skyline.github.com/kshivakumar27/2021" target="_blank">
+<img src=https://img.shields.io/badge/MygithubSkyline-%231E7778.svg?&style=for-the-badge&logo=y&logoColor=white alt=MyGithubSkyline style="margin-bottom: 5px;" />
+</a>
 </p>
 
 
-https://skyline.github.com/kshivakumar27/2021
+
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
