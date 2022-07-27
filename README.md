@@ -1,6 +1,6 @@
 
  ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
-<h1 align="center">Hi 👋, I'm Shivakumar K ,Software Engineer1</h1>
+<h5 align="center">Hi 👋, I'm Shivakumar K ,Software Engineer1</h5>
 
 
 
@@ -21,8 +21,8 @@
 
 7:7
  
-<h1 align="center">You can see website here:</h1>  
-<p align="left">
+<h5 align="center">You can see website here:</h5>  
+<p align="center">
 <a href="https://kshivakumar27.github.io/Yashiv99" target="_blank">
 <img src=https://img.shields.io/badge/yashiv.io(portfolio)-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
 </a>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hello 📫, Explore my work here & reach me:</h1>
+<h5 align="center">Hello 📫, Explore my work here & reach me:</h5>
 <p align="center">
 <a href="https://github.com/kshivakumar27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324298e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 
  
- <h1 align="center">StackOverFlow :Tag me if any queries or question discussions</h1>
+ <h5 align="center">StackOverFlow :Tag me if any queries or question discussions</h5>
 <p align="center">
 <a href="https://stackoverflow.com/users/17393268/shiv-kumar-k" target="_blank">
 <img src=https://img.shields.io/badge/StackOverFlow-%2324298b.svg?&style=for-the-badge&logo=SO&logoColor=white alt=Stack style="margin-bottom: 5px;" />
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">You can refer my react hosted web pages here:</h1>
+<h5 align="center">You can refer my react hosted web pages here:</h5>
 <p align="center">
 <a href="https://kshivakumar27.github.io/ShoppingMARTassign" target="_blank">
 <img src=https://img.shields.io/badge/ShoppingMart-%2324298e.svg?&style=for-the-badge&logo=Shoping&logoColor=white alt=Website style="margin-bottom: 5px;" />
@@ -150,7 +150,7 @@ Here are some ideas to get you started:
  
   
 
-<h3 align="left">Skills & Languages:</h3>
+<h5 align="center">Skills & Languages:</h5>
 <p>
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />			
