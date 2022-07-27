@@ -16,14 +16,12 @@
 <a href="https://github.com/kshivakumar27/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=kshivakumar27&column=7&theme=gruvbox"  alt="kshivakumar27"/></a>
     
- ### You can see my personal website here:
- 
-    
-
 
 11:11
 
 7:7
+ 
+<h1 align="center">You can see website here:</h1>  
 <p align="left">
 <a href="https://kshivakumar27.github.io/Yashiv99" target="_blank">
 <img src=https://img.shields.io/badge/yashiv.io(portfolio)-%231E7777.svg?&style=for-the-badge&logo=y&logoColor=white alt=Yashiv.io style="margin-bottom: 5px;" />
@@ -90,7 +88,7 @@ Here are some ideas to get you started:
 
 
 
- ##
+ 
  <h1 align="center">StackOverFlow :Tag me if any queries or question discussions</h1>
 <p align="center">
 <a href="https://stackoverflow.com/users/17393268/shiv-kumar-k" target="_blank">
@@ -98,38 +96,58 @@ Here are some ideas to get you started:
 </a>
  
 
-
+<a>
+	
 ![](https://komarev.com/ghpvc/?username=kshivakumar27&label=PROFILE+VIEWS)
 
+</a>
 </p>
 
 <br>"om shree gam gau ganapathaye vigna vinaashane namah"
 
 
+
+
+
+<h1 align="center">You can refer my react hosted web pages here:</h1>
+<p align="center">
+<a href="https://kshivakumar27.github.io/ShoppingMARTassign" target="_blank">
+<img src=https://img.shields.io/badge/ShoppingMart-%2324298e.svg?&style=for-the-badge&logo=Shoping&logoColor=white alt=Website style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://kshivakumar27.github.io/OnlineBusiness" target="_blank">
+<img src=https://img.shields.io/badge/OnlineBusiness-%231E77B5.svg?&style=for-the-badge&logo=OnlineBusiness&logoColor=white alt=OnlineBusiness style="margin-bottom: 5px;" />
+</a>
+<a href="https://kshivakumar27.github.io/ageteller" target="_blank">
+<img src=https://img.shields.io/badge/ageteller-%231E7777.svg?&style=for-the-badge&logo=ageteller&logoColor=white alt=ageteller style="margin-bottom: 5px;" />
+</a>
+<a href="https://kshivakumar27.github.io/EmployeeUserRegistrationBlogReact" target="_blank">
+<img src=https://img.shields.io/badge/EmployeeUserRegistrationBlogReact-%2324298e.svg?&style=for-the-badge&logo=E&logoColor=white alt=EmployeeUserRegistrationBlogReact style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://kshivakumar27.github.io/Checklist" target="_blank">
+<img src=https://img.shields.io/badge/Checklist-%231E77B5.svg?&style=for-the-badge&logo=Checklist&logoColor=white alt=Checklist style="margin-bottom: 5px;" />
+</a>
+<a href="https://kshivakumar27.github.io/AdminCRUFrontendReactJS" target="_blank">
+<img src=https://img.shields.io/badge/AdminCRUFrontendReactJS-%231E7777.svg?&style=for-the-badge&logo=AdminCRUFrontendReactJS&logoColor=white alt=AdminCRUFrontendReactJS style="margin-bottom: 5px;" />
+</a>
+	
+	
+<a href="https://kshivakumar27.github.io/portfolio" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%232429ee.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+	
+</p>
+
+
+
+
+
+
+
    
- ### You can see my react website here:
- https://kshivakumar27.github.io/ShoppingMARTassign
- 
- https://kshivakumar27.github.io/OnlineBusiness
- 
- https://kshivakumar27.github.io/ageteller
  
  
-https://kshivakumar27.github.io/EmployeeUserRegistrationBlogReact
-
-
-
-
-
-
-
-
-https://kshivakumar27.github.io/Checklist
-
-https://kshivakumar27.github.io/AdminCRUFrontendReactJS
-
-https://kshivakumar27.github.io/portfolio
-
   
 
 <h3 align="left">Skills & Languages:</h3>
