@@ -176,8 +176,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 	
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/MERN-%23202329.svg?style=for-the-badge&logo=MERN&logoColor=white" alt="MERN"/>
+<img src="https://img.shields.io/badge/React-20233A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="springboot"/>		
 <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs"/>
 <img src="https://img.shields.io/badge/DJANGO-REST-1709.svg?style=for-the-badge&logo=django3&logoColor=white" alt="django"/>
