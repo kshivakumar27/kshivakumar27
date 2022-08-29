@@ -211,11 +211,11 @@ Here are some ideas to get you started:
 
 <h5 align="center">You can refer my Reactjs/NodeJS/MongoDB hosted web pages Using Git/Herokuapp/Netlify/Azure</h5>
 <p align="center">
-<a href="https://bookmyshowf.herokuapp.com" target="_blank">
+<a href="https://bookmyshowf.herokuapp.com/adminregister" target="_blank">
 <img src=https://img.shields.io/badge/Bookmyshow-%2324298e.svg?&style=for-the-badge&logo=Bookmyshow&logoColor=white alt=Bookmyshow style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://hiringstudents-f-shiv.herokuapp.com" target="_blank">
+<a href="https://hiringstudent-f-shiv.herokuapp.com/login" target="_blank">
 <img src=https://img.shields.io/badge/Hiring-%231E77B5.svg?&style=for-the-badge&logo=Hiring&logoColor=white alt=Hiring style="margin-bottom: 5px;" />
 </a>
 
