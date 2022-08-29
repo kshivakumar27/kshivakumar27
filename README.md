@@ -215,8 +215,8 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/Bookmyshow-%2324298e.svg?&style=for-the-badge&logo=Bookmyshow&logoColor=white alt=Bookmyshow style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://hiringstudent-f-shiv.herokuapp.com/login" target="_blank">
-<img src=https://img.shields.io/badge/Hiring-%231E77B5.svg?&style=for-the-badge&logo=Hiring&logoColor=white alt=Hiring style="margin-bottom: 5px;" />
+<a href="https://hiringstudent-f-shiv.herokuapp.com" target="_blank">
+<img src=https://img.shields.io/badge/Hiring-%231E77B6.svg?&style=for-the-badge&logo=Hiring&logoColor=white alt=Hiring style="margin-bottom: 5px;" />
 </a>
 
 
